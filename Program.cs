@@ -90,7 +90,7 @@ if(q == "yes") {four = true;} else {four = false;};
             /*Подсчёт*/
             int minGora = 0;
                                                                      #pragma warning disable CS8601 
-            string[] gores_four = [gora1, gora2, gora3, gora4];
+            string[] gores_four = {gora1, gora2, gora3, gora4};
                                                                      #pragma warning restore CS8601 
                                                                         #pragma warning disable CS8601 
             string[] gores = {gora1, gora2, gora3};
