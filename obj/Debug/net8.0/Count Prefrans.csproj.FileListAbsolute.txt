@@ -1,0 +1,14 @@
+D:\Repositories\Count Prefrans\bin\Debug\net8.0\Count Prefrans.exe
+D:\Repositories\Count Prefrans\bin\Debug\net8.0\Count Prefrans.deps.json
+D:\Repositories\Count Prefrans\bin\Debug\net8.0\Count Prefrans.runtimeconfig.json
+D:\Repositories\Count Prefrans\bin\Debug\net8.0\Count Prefrans.dll
+D:\Repositories\Count Prefrans\bin\Debug\net8.0\Count Prefrans.pdb
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.AssemblyInfoInputs.cache
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.AssemblyInfo.cs
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.csproj.CoreCompileInputs.cache
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.dll
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\refint\Count Prefrans.dll
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.pdb
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\Count Prefrans.genruntimeconfig.cache
+D:\Repositories\Count Prefrans\obj\Debug\net8.0\ref\Count Prefrans.dll
